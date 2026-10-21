@@ -1,4 +1,5 @@
-// C:\dev\MarkdownEditor\src\hooks\editor\typing\useTypingManager.js
+// Copyright (c) dendr000. MIT License.
+// src/hooks/editor/typing/useTypingManager.js
 /*
  * 파일 위치: src/hooks/editor/typing/useTypingManager.js
  * 파일 설명: 5개의 텍스트 입력 및 포맷팅 보조 훅을 통합하여 단일 파이프라인으로 관리하는 매니저 훅입니다. 메인 컴포넌트의 다이어트를 위해 생성되었습니다.

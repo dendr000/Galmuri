@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/routes/api.js v1.1
 /*
  * 파일 설명: Express 라우터를 사용하여 API 엔드포인트를 정의하는 파일입니다.

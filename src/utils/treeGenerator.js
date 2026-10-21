@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/utils/treeGenerator.js v1.0
 /*
  * 파일 설명: 폴더 트리 배열 데이터를 마크다운/텍스트 구조의 연결선 기호(├──, └──, │)로 변환하는 알고리즘 모듈입니다.

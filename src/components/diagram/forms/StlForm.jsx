@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/diagram/forms/StlForm.jsx v1.0
 /*
  * 파일 설명: 3D 모델(STL) 상자(Box) 크기 변수 조절용 GUI 입력 폼 컴포넌트입니다.

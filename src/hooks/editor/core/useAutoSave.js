@@ -1,4 +1,5 @@
-// C:\dev\MarkdownEditor\src\hooks\editor\core\useAutoSave.js
+// Copyright (c) dendr000. MIT License.
+// src/hooks/editor/core/useAutoSave.js
 /*
  * 파일 위치: src/hooks/editor/core/useAutoSave.js
  * 파일 설명: useEditor에서 분리됨. 파일 확장자 분석, 읽기 전용 상태 판별, 5초 무입력 시 자동 저장 기능을 전담합니다.

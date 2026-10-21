@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/diagram/forms/SequenceForm.jsx v1.0
 /*
  * 파일 설명: 시퀀스 다이어그램(Sequence Diagram) 전용 GUI 입력 폼 컴포넌트입니다.

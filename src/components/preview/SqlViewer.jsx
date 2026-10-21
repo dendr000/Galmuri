@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/preview/SqlViewer.jsx v1.0
 /*
  * 파일 설명: SQL 텍스트 파일(.sql)이 선택되었을 때, CREATE TABLE 구문을 분석(Parsing)하여 시각화된 테이블 형태로 렌더링하는 전용 뷰어입니다.

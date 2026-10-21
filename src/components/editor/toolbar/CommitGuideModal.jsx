@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/editor/toolbar/CommitGuideModal.jsx v1.1
 /*
  * 파일 설명: 깃허브 커밋 메시지 컨벤션을 시각적으로 안내하고, 클릭 시 해당 태그를 에디터에 삽입하거나 복사할 수 있는 가이드 모달입니다.

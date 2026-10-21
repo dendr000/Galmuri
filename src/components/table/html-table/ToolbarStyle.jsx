@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/table/html-table/ToolbarStyle.jsx v1.3
 /*
  * 파일 설명: HTML 표 내부의 텍스트 서식(굵게, 기울임, 취소선), 정렬, 글자색 및 배경색을 제어하는 스타일 툴바 컴포넌트입니다.

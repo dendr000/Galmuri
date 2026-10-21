@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/preview/LinkRenderer.jsx v1.0
 /*
  * 파일 설명: 뷰어 내부의 링크(a 태그) 클릭 이벤트를 가로채어 파일 탭 이동을 유도하는 렌더러 컴포넌트입니다.

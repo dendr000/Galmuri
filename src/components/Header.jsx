@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/Header.jsx v6.0
 /*
  * 파일 위치: src/components/Header.jsx

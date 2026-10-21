@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/preview/CodeBlockRenderer.jsx v3.0
 /*
  * 파일 설명: 마크다운 내부의 코드 블록을 언어에 맞춰 렌더링하고 코드 복사 기능을 제공하는 컴포넌트입니다.

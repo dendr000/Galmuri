@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/preview/MermaidBlock.jsx v3.0
 /*
  * 파일 설명: Mermaid 문법을 파싱하여 SVG 다이어그램으로 렌더링하는 컴포넌트입니다.

@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/editor/OutlineMinimap.jsx v2.3
 /*
  * 파일 설명: 에디터 우측에 고정되어 마우스 호버 시 스르륵 나타나는(Drawer) 목차(TOC) 내비게이션 컴포넌트입니다.

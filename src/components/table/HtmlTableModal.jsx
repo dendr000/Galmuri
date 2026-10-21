@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/table/HtmlTableModal.jsx v6.1
 /*
  * 파일 설명: 모든 고급 기능(다중 삽입, Ctrl 다중 선택, 스크롤 고정, 캡션 등)이 결합된 HTML 표 최종 메인 컨테이너입니다.

@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/utils/editor/sqlGenerator.js v1.0
 /*
  * 파일 위치: src/utils/editor/sqlGenerator.js

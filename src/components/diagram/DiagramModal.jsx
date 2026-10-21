@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/diagram/DiagramModal.jsx v11.0
 /*
  * 파일 설명: 분리된 유틸리티(diagramParser)를 사용하여 파싱 로직을 외주화하고, UI 관리만 담당하는 경량화된 다이어그램 모달 컴포넌트입니다. GeoJSON 및 STL 상태 렌더링 누락 에러가 수정되었습니다.

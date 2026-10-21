@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/utils/templates.js v1.0
 /*
  * 파일 설명: 템플릿 보관함 초기 구동 시 사용자에게 기본적으로 제공될 하드코딩된 마크다운 템플릿 문자열 모음입니다.

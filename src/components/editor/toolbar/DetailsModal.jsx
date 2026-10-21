@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/editor/toolbar/DetailsModal.jsx v1.0
 /*
  * 파일 설명: 사용자가 제목(Summary)과 숨길 내용(Details)을 쉽게 입력할 수 있도록 돕는 접기/펼치기 GUI 팝업입니다.

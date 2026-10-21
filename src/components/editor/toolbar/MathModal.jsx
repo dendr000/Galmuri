@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/editor/toolbar/MathModal.jsx v1.0
 /*
  * 파일 설명: LaTeX 문법을 모르는 사용자를 위해 자주 쓰이는 수학 수식 기호들을 버튼(프리셋) 형태로 제공하고, 입력된 수식을 KaTeX 엔진으로 실시간 렌더링하여 보여주는 GUI 모달 컴포넌트입니다.

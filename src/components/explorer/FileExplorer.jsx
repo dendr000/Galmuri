@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/explorer/FileExplorer.jsx v6.1
 /*
  * 파일 위치: src/components/explorer/FileExplorer.jsx

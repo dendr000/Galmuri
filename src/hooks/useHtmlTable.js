@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/hooks/useHtmlTable.js v1.0
 /*
  * 파일 설명: HTML 표의 데이터(텍스트, 정렬) 및 구조(병합, 분할, 행/열 추가 삭제) 상태를 관리하는 커스텀 훅

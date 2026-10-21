@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/utils/localDb.js v1.0
 /*
  * 파일 설명: 백엔드 DB를 대신하여 브라우저의 localStorage를 미니 데이터베이스로 활용하는 CRUD 래퍼 유틸리티입니다.

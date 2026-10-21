@@ -25,8 +25,14 @@ dist-ssr
 
 # 환경변수 파일 무시
 .env
-.env.local
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
 
 # 로컬 데이터베이스(파일 DB) 폴더 무시
 src/data/
 src/workspace-config.json
+# 빌드 결과물
+build

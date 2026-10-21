@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 export const copyToClipboard = async (text) => {
   if (!text) return false;
   try {

@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/explorer/WorkspaceConfig.jsx v1.1
 /*
  * 파일 설명: 탐색기 상단의 워크스페이스(루트 폴더) 경로를 설정하고 히스토리를 관리하는 컴포넌트입니다.

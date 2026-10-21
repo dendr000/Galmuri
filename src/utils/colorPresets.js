@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/utils/colorPresets.js v1.0
 /*
  * 파일 설명: 표 셀 배경색 및 글자색 지정 시 깃허브 스타일에 어울리는 추천 색상 팔레트를 제공하는 상수 파일입니다.

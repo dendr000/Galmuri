@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 /*
  * 파일 위치: src/components/editor/toolbar/groups/MarkdownGroups.jsx
  * 기능 요약: 마크다운 에디터의 기본 서식(제목, 텍스트 포맷, 목록, 미디어 삽입)을 담당하는 툴바 버튼 그룹들을 모아둔 컴포넌트입니다.

@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/utils/editorCore.js v1.0
 /*
  * 파일 설명: 에디터(Textarea) 내부의 텍스트 조작, 커서 연산, 들여쓰기(Tab) 제어를 담당하는 코어 유틸리티입니다.

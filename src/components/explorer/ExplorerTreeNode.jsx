@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/explorer/ExplorerTreeNode.jsx v2.0
 /*
  * 파일 설명: 탐색기의 개별 폴더/파일 노드를 렌더링하는 메인 컴포넌트입니다.

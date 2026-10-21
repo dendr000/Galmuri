@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/hooks/editor/typing/useSqlFormatter.js
 /*
  * 파일 위치: src/hooks/editor/useSqlFormatter.js

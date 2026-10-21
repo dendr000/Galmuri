@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 /*
  * 파일 위치: src/components/editor/toolbar/groups/GithubGroup.jsx
  * 기능 요약: GitHub Alerts 및 확장 문법(Diff, Details, Kbd 등) 삽입을 지원하는 툴바 버튼 및 포탈 드롭다운 메뉴입니다.

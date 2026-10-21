@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // vite.config.js v2.3
 /*
  * 파일 위치: vite.config.js

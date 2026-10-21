@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/diagram/forms/GeoJsonForm.jsx v1.0
 /*
  * 파일 설명: 대화형 지도(GeoJSON) 전용 GUI 입력 폼 컴포넌트입니다.

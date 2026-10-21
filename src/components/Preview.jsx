@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/Preview.jsx v2.2
 /*
  * 파일 위치: src/components/Preview.jsx

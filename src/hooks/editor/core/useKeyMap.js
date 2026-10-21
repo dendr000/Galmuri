@@ -1,4 +1,5 @@
-// C:\dev\MarkdownEditor\src\hooks\editor\core\useKeyMap.js
+// Copyright (c) dendr000. MIT License.
+// src/hooks/editor/core/useKeyMap.js
 /*
  * 파일 위치: src/hooks/editor/core/useKeyMap.js
  * 파일 설명: useEditor에서 분리됨. 사용자의 키보드 입력(단축키, 줄바꿈 등)을 가장 먼저 감지하여 각 기능들로 연결해 주는 라우터 역할을 합니다.

@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/html-table/HtmlTableControls.jsx v1.0
 /*
  * 파일 설명: HTML 표 모달 상단에 위치하여 행/열 추가, 정렬 변경, 병합 및 분할 기능을 트리거하는 툴바 컴포넌트

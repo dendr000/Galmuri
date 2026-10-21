@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/utils/htmlTableParser.js v5.0
 /*
  * 파일 설명: HTML 표의 DOM을 분석하여 상태로 반환하고, 상태를 다시 HTML 태그로 렌더링하는 유틸리티

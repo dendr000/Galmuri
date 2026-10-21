@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/editor/toolbar/PortalDropdown.jsx v1.0
 import { useEffect, useState } from 'react';
 import { createPortal } from 'react-dom';

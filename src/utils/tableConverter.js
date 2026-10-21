@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/utils/tableConverter.js v2.0
 /*
  * 파일 설명: 마크다운 표 문자열을 2차원 그리드 객체 배열로 파싱하고, 역으로 그리드 배열을 마크다운 표 문법으로 생성하는 상호 변환 유틸리티입니다.

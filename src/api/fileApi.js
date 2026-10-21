@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/api/fileApi.js v2.0
 /*
  * 파일 설명: 로컬 백엔드(server.js)와 브라우저 내장 저장소(IndexedDB) 간의 통신을 

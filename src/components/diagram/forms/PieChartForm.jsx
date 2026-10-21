@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/diagram/forms/PieChartForm.jsx v1.0
 /*
  * 파일 설명: 원형 차트(Pie Chart) 전용 GUI 입력 폼 컴포넌트입니다.

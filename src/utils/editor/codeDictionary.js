@@ -1,4 +1,5 @@
-// C:\dev\MarkdownEditor\src\utils\editor\codeDictionary.js
+// Copyright (c) dendr000. MIT License.
+// src/utils/editor/codeDictionary.js
 /*
  * 파일 위치: src/utils/editor/codeDictionary.js
  * 파일 설명: 에디터에서 지원하는 각 프로그래밍 언어별 주석 기호, 단축 스니펫, 자동 치환 규칙을 정의한 사전(Dictionary) 파일입니다.

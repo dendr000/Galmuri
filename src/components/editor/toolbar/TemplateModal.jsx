@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/editor/toolbar/TemplateModal.jsx v2.0
 /*
  * 파일 설명: 로컬 스토리지에 저장된 마크다운 템플릿 목록을 조회하고, 에디터에 삽입하거나 새로운 템플릿을 생성/수정/삭제할 수 있는 종합 관리 모달 UI입니다.

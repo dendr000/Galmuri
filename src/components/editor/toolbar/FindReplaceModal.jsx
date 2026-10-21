@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/editor/toolbar/FindReplaceModal.jsx v1.5
 /*
  * 파일 설명: 텍스트 내 특정 문자열을 찾아 일괄 치환하는 찾아 바꾸기(Find and Replace) 모달입니다.

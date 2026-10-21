@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/preview/StlBlock.jsx v6.0
 /*
  * 파일 설명: Three.js의 STLLoader가 ArrayBuffer를 이진 데이터(Binary)로 오인하여 발생하는 RangeError(메모리 초과 할당)를 해결하기 위해, 순수 문자열(String)을 직접 파싱하도록 수정된 렌더러 컴포넌트입니다.

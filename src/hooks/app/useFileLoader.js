@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/hooks/app/useFileLoader.js v1.2
 /*
  * 파일 설명: App.jsx에서 파일 불러오기(MD, PDF, 엑셀, 미지원 파일) 및 브라우저 URL 라우팅(히스토리) 기능을 전담하는 커스텀 훅입니다.

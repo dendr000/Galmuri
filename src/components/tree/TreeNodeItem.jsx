@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/tree/TreeNodeItem.jsx v1.0
 /*
  * 파일 설명: 폴더 트리 작성기의 개별 노드(행)를 렌더링하는 UI 컴포넌트입니다.

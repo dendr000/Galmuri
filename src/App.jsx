@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/App.jsx v10.0
 /*
  * 파일 위치: src/App.jsx

@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/preview/GeoJsonBlock.jsx v1.0
 /*
  * 파일 설명: GeoJSON 및 TopoJSON 데이터를 파싱하여 Leaflet 기반의 대화형 지도로 렌더링하는 컴포넌트입니다.

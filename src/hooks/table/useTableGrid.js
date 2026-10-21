@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 /* src/hooks/table/useTableGrid.js v6.0 */
 /*
  * 파일 설명: 다중 삽입(count), 다중 비연속 셀 선택(selectedCellKeys), 일괄 붙여넣기 및 히스토리 관리를 모두 통제하는 상태 관리 훅

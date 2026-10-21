@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/controllers/fileController.js v1.0
 /*
  * 파일 설명: 로컬 파일 시스템(fs)에 접근하여 파일과 디렉토리 CRUD를 수행하는 백엔드 컨트롤러입니다.
