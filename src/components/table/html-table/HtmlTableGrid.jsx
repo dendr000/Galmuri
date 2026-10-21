@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 /* src/components/html-table/HtmlTableGrid.jsx v6.0 */
 /*
  * 파일 설명: Ctrl 키를 이용한 비연속 다중 셀 선택 및 복사/붙여넣기/잘라내기를 지원하는 그리드 렌더링 컴포넌트

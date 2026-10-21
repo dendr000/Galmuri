@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/html-table/HtmlTableControls.jsx v1.1
 /*
  * 파일 위치: src/components/html-table/HtmlTableControls.jsx

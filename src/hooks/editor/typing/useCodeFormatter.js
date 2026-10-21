@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/hooks/editor/typing/useCodeFormatter.js v1.2
 /*
  * 파일 위치: src/hooks/editor/typing/useCodeFormatter.js

@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/editor/toolbar/sqlBuilder/ddl/DdlPreview.jsx v1.2
 /*
  * 파일 위치: src/components/editor/toolbar/sqlBuilder/ddl/DdlPreview.jsx

@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/preview/GeoJsonBlock.jsx v1.1
 /*
  * 파일 위치: src/components/preview/GeoJsonBlock.jsx

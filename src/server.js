@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/server.js v2.2
 /*
  * 파일 위치: src/server.js
@@ -10,6 +11,7 @@ import fs from 'fs';
 import path from 'path';
 import { loadWorkspaceConfig, initDataDir } from './controllers/fileController.js';
 import apiRoutes from './routes/api.js';
+import { COORDINATE_DIR } from './config/paths.js';
 
 const app = express();
 const PORT = 3001;
@@ -33,8 +35,8 @@ app.post('/api/save-coords', (req, res) => {
       return res.status(400).json({ error: '파일명 또는 좌표 데이터가 누락되었습니다.' });
     }
 
-    // 파일이 저장될 하드코딩된 절대 경로입니다.
-    const targetDir = path.join('C:', 'dev', 'MarkdownEditor', 'src', 'data', 'coordinate');
+    // 파일이 저장될 폴더입니다. (프로젝트 위치 기준 src/data/coordinate)
+    const targetDir = COORDINATE_DIR;
     
     // 폴더가 존재하지 않으면 재귀적으로 생성합니다.
     if (!fs.existsSync(targetDir)) {

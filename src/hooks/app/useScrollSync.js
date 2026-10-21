@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/hooks/app/useScrollSync.js v1.0
 /*
  * 파일 설명: 에디터와 실시간 뷰어 간의 양방향 스크롤 동기화 연산을 전담하는 커스텀 훅입니다.

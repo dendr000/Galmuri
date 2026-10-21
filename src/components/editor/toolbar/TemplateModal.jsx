@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/editor/toolbar/TemplateModal.jsx v2.1
 /*
  * 파일 위치: src/components/editor/toolbar/TemplateModal.jsx

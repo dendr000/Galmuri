@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/controllers/fileController.js v1.1
 /*
  * 파일 위치: src/controllers/fileController.js

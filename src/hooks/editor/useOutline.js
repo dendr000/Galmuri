@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/hooks/editor/useOutline.js v1.0
 /*
  * 파일 설명: 에디터 본문의 마크다운 텍스트를 실시간으로 스캔하여 제목(#) 노드들의 계층(level)과 텍스트 커서 위치(charIndex)를 추출하는 커스텀 훅입니다.

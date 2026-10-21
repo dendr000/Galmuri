@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/editor/OutlineMinimap.jsx v2.4
 /*
  * 파일 위치: src/components/editor/OutlineMinimap.jsx

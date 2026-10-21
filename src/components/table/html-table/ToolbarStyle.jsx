@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/table/html-table/ToolbarStyle.jsx v1.4
 /*
  * 파일 위치: src/components/table/html-table/ToolbarStyle.jsx

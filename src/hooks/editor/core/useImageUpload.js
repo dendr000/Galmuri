@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/hooks/editor/core/useImageUpload.js v2.1
 /*
  * 파일 위치: src/hooks/editor/core/useImageUpload.js

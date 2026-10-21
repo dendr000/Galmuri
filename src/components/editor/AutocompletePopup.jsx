@@ -1,6 +1,7 @@
-// C:\dev\MarkdownEditor\src\components\editor\AutocompletePopup.jsx v1.1
+// Copyright (c) dendr000. MIT License.
+// src/components/editor/AutocompletePopup.jsx v1.1
 /*
- * 파일 위치: C:\dev\MarkdownEditor\src\components\editor\AutocompletePopup.jsx
+ * 파일 위치: src/components/editor/AutocompletePopup.jsx
  * 기능 요약: 텍스트 커서(Caret)의 좌표를 추적하여 코드 예약어 추천 리스트를 띄우는 플로팅 팝업 UI 컴포넌트입니다. (배포를 위해 콘솔 로그 출력 기능이 제거되었습니다.)
  */
 import React from 'react';

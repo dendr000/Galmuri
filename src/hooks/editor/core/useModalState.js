@@ -1,4 +1,5 @@
-// C:\dev\MarkdownEditor\src\hooks\editor\core\useModalState.js
+// Copyright (c) dendr000. MIT License.
+// src/hooks/editor/core/useModalState.js
 /*
  * 파일 위치: src/hooks/editor/core/useModalState.js
  * 파일 설명: useEditor에서 분리됨. 10여 개에 달하는 팝업/모달의 개폐 상태와 선택 영역(Selection) 상태를 전담하여 관리합니다.

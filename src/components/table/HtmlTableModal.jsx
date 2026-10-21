@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/table/HtmlTableModal.jsx v6.2
 /*
  * 파일 위치: src/components/table/HtmlTableModal.jsx

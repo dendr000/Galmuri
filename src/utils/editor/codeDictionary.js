@@ -1,6 +1,7 @@
-// C:\dev\MarkdownEditor\src\utils\editor\codeDictionary.js v1.4
+// Copyright (c) dendr000. MIT License.
+// src/utils/editor/codeDictionary.js v1.4
 /*
- * 파일 위치: C:\dev\MarkdownEditor\src\utils\editor\codeDictionary.js
+ * 파일 위치: src/utils/editor/codeDictionary.js
  * 기능 요약: 에디터에서 지원하는 각 프로그래밍 언어별 주석 기호, 단축 스니펫, 자동 치환 규칙을 정의한 사전(Dictionary) 파일입니다. (배포를 위해 콘솔 로그 출력 기능이 제거되었습니다.)
  * (v1.3 수정사항): SQL_UPPERCASE_KEYWORDS 셋업을 자동완성 팝업(KEYWORD_DICT)과 완벽하게 동기화하여 중복 선언을 제거했습니다.
  */

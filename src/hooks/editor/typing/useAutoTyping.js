@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/hooks/editor/typing/useAutoTyping.js v1.0
 /*
  * 파일 위치: src/hooks/editor/useAutoTyping.js

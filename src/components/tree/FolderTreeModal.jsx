@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/tree/FolderTreeModal.jsx v3.0
 /*
  * 파일 설명: 사용자가 입력한 노드 데이터를 기반으로 폴더 트리 구조를 마크다운 텍스트로 생성하는 메인 모달 컴포넌트입니다.

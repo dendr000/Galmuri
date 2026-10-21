@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/preview/SqlErdViewer.jsx v1.5
 /*
  * 파일 위치: src/components/preview/SqlErdViewer.jsx

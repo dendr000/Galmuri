@@ -1,4 +1,5 @@
-// C:\dev\MarkdownEditor\src\hooks\editor\core\useTextFormat.js
+// Copyright (c) dendr000. MIT License.
+// src/hooks/editor/core/useTextFormat.js
 /*
  * 파일 위치: src/hooks/editor/core/useTextFormat.js
  * 파일 설명: useEditor에서 분리됨. 마크다운 포맷팅, 데이터 삽입, 찾기/바꾸기 등 DOM에 텍스트를 실질적으로 치환/삽입하는 역할을 전담합니다.

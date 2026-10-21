@@ -1,4 +1,5 @@
-// C:\dev\MarkdownEditor\src\hooks\editor\core\useEditor.js
+// Copyright (c) dendr000. MIT License.
+// src/hooks/editor/core/useEditor.js
 /*
  * 파일 위치: src/hooks/editor/core/useEditor.js
  * 파일 설명: 에디터 비즈니스 로직들을 하위 모듈로 완전히 분리하고, 이들을 조합하여 기존과 100% 동일한 형태의 인터페이스(state, actions)를 반환하는 오케스트레이터 파일입니다.

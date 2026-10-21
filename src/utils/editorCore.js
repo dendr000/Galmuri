@@ -1,6 +1,7 @@
-// C:\dev\MarkdownEditor\src\utils\editorCore.js v1.2
+// Copyright (c) dendr000. MIT License.
+// src/utils/editorCore.js v1.2
 /*
- * 파일 위치: C:\dev\MarkdownEditor\src\utils\editorCore.js
+ * 파일 위치: src/utils/editorCore.js
  * 기능 요약: 에디터(Textarea) 내부의 텍스트 조작, 커서 연산, 들여쓰기(Tab) 제어를 담당하는 코어 유틸리티입니다. (배포를 위해 콘솔 로그 출력 기능이 제거되었습니다.)
  * (v1.1 수정사항): textarea가 disabled이거나 readOnly 상태일 때 JS API를 통한 강제 텍스트 주입을 원천 차단하는 방어 로직 추가.
  */

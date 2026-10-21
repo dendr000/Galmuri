@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/TableModal.jsx v2.0
 /*
  * 파일 설명: 마크다운 에디터 내에서 표(Table)를 시각적으로 구성하고 수정하는 모달 컴포넌트입니다.

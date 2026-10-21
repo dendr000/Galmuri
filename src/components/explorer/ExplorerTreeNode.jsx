@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/explorer/ExplorerTreeNode.jsx v2.5
 /*
  * 파일 위치: src/components/explorer/ExplorerTreeNode.jsx

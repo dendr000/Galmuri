@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/editor/toolbar/sqlBuilder/ddl/DdlGridPanel.jsx v2.1
 /*
  * 파일 위치: src/components/editor/toolbar/sqlBuilder/ddl/DdlGridPanel.jsx

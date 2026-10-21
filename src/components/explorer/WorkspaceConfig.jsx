@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/explorer/WorkspaceConfig.jsx v1.3
 /*
  * 파일 위치: src/components/explorer/WorkspaceConfig.jsx

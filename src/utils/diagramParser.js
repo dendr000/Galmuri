@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/utils/diagramParser.js v1.2
 /*
  * 파일 설명: 다이어그램의 GUI 상태 ↔ 마크다운 텍스트 간의 상호 변환을 담당하는 유틸리티 파일입니다. GeoJSON 및 STL 문자열 합성 로직이 복구되었습니다.

@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/diagram/forms/FlowchartForm.jsx v5.0
 /*
  * 파일 설명: 순서도(Flowchart) GUI 폼 컴포넌트입니다. 상단 컨트롤 바(새 흐름 추가 버튼 포함)를 Sticky로 고정하여 스크롤 피로도를 줄였습니다.

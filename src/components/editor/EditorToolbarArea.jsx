@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 /*
  * 파일 위치: src/components/editor/EditorToolbarArea.jsx
  * 파일 설명: 메인 에디터의 상단 툴바 영역을 렌더링하고 가로 스크롤 이벤트를 제어합니다.

@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 /* src/components/html-table/ToolbarStructure.jsx v6.0 */
 /*
  * 파일 설명: 삽입할 개수(N개)를 지정할 수 있는 입력창이 추가된 구조 제어 툴바

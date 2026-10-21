@@ -1,3 +1,4 @@
+// Copyright (c) dendr000. MIT License.
 // src/components/diagram/DiagramModal.jsx v11.1
 /*
  * 파일 위치: src/components/diagram/DiagramModal.jsx
